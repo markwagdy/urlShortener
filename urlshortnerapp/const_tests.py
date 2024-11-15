@@ -1,5 +1,5 @@
 SHORTEN_URL_ENDPOINT = "/api/shorten/"
-GET_ORIGINAL_URL_ENDPOINT = "/api/original/"
+GET_ORIGINAL_URL_ENDPOINT = "/api/"
 URL_STATS_ENDPOINT = "/api/stats/"
 
 TEST_ORIGINAL_URL = "https://example.com"

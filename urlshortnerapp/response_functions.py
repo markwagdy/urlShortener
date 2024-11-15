@@ -1,6 +1,7 @@
 from django.http import JsonResponse, HttpResponse
 from .const_general import APPLICATION_JSON_UTF8,ALLOW_ORIGIN
 
+"""response function to be used with api methods"""
 def success(message):
     body = {
         "data": message,
